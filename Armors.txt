@@ -1,0 +1,20 @@
+Endless Road
+5
+100
+0
+Genji Shield
+10
+150
+2
+Emblem
+20
+200
+4
+Crystal Shield
+40
+400
+6
+Aegis Shield
+50
+500
+8

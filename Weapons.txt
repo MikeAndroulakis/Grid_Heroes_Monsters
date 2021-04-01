@@ -1,0 +1,25 @@
+Caladbolg
+200
+0
+100
+1
+Taming Sword
+500
+0
+120
+1
+Crystal Sword
+700
+2
+200
+2
+Excalibur
+1000
+5
+400
+2
+Ragnarok
+2000
+8
+700
+2
